@@ -1,6 +1,6 @@
 # Book Sort Wizard
 
-# HackIllinois 2022 Second Place Winner (Beginner Track)
+HackIllinois 2022 Second Place Winner (Beginner Track)
 
 Sort library shelves quickly and effortlessly!
 
