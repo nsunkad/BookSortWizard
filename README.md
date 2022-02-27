@@ -1,6 +1,7 @@
 # BookSort
 
 Image Processing: Shelf reading app for UIUC libraries
+
 Automates the job of sorting library books by label and reordering the out of place books
 Could expand functionality to sort dewey decimal books and convert from one system to another 
 
